@@ -1,8 +1,8 @@
 /*
-Program Name: Math Tutor
+Program Name: Days in a Month
 Purpose: Extend programming functionality and experience
 Author: Rania Valentina Rojas Ortiz
-Date Last Modified: 06/24/2025
+Date Last Modified: 06/28/2025
 */
 
 #include <iostream>
